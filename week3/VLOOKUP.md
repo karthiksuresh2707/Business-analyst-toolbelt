@@ -1,6 +1,11 @@
 # VLOOKUP
 
+Before we go into Lookup Lets understand the **IF** condition in Excel
+
+[Excel Formula][e09b1a14]
 ##  Lookup formulas
+
+  [e09b1a14]: https://github.com/karthiksures/Business-analyst-toolbelt/tree/master/week3/ExcelFormulas.md "Excel Formula"
 
 In place of SQL joins, in Excel we have **lookups** — where we use one table to “look up” another value, usually to add a column to a table.
 
