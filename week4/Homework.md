@@ -30,4 +30,4 @@ You will return me a PLAIN TEXT FILE (not Word, not .rtf format) of just the que
 
 There will be quiz questions on the results of these queries and on aspects of databases from the week's lesson.
 
-Save this file of queries with a .sql ending, like "LynnQueries.sql" and upload it.
+Save this file of queries with a .sql ending, like "KarthikTheoQueries.sql" and upload it.
