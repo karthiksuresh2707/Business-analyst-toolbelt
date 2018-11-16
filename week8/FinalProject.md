@@ -10,7 +10,7 @@ Use SQL to explore your data files. You can use SQL to extract data, then analyz
 
 * Produce and submit a Tableau Workbook exploring and summarizing the data in an interesting way. Details here:
 
-    - Make Storypoint charts in Tableau, walking us through the data story you found with your data.  Normally you would present this to the class, but we don't have time this semester. It must stand on its own as a data story I can follow and learn from.
+    - Make Storypoint charts in Tableau, walking us through the data story you found with your data.  You would present this to the class. 
     - You must have at least 10 charts that explore and summarize the data.  These should be well chosen — and relate to the “big picture” and to each other. It must be something you would present to a client — standalone, clear, clean, well- labeled and explained without requiring you to verbally interpret.  It must look good and professional.
     - Avoid the design errors I described last week in the chart tips discussion.
 
